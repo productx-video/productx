@@ -1,22 +1,31 @@
 # ProductX Public Roadmap
 
-This roadmap describes product areas under active consideration for productx.video. It is not a release commitment.
+This roadmap summarizes product directions we are evaluating or actively improving for [productx.video](https://productx.video). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
-## Current Focus
+## Now
 
-- Improve ecommerce ad video workflows around product inputs, reference structures, and storyboard review.
-- Keep ad clone outputs framed as structure-based remakes rather than reused footage.
-- Make pricing, credits, and generation expectations clear for self-serve users.
-- Improve public examples for paid social, PDP, and creative testing use cases.
+- Improve ecommerce ad-video workflows around product inputs and storyboard review.
+- Keep ad-clone language focused on structure-based remakes, not copied footage.
+- Make variant generation from one brief easier to evaluate.
+- Keep product-video and ad-video use cases distinct in public feedback.
 
-## Planned Areas
+## Next
 
-- Better onboarding for first ad clone and product video projects.
-- Clearer workflow states for upload, analysis, storyboard, render, and reuse.
-- More product-focused examples for ecommerce teams and agencies.
-- More support content around commercial usage, brand review, and platform-policy checks.
-- Accessibility improvements for dashboard and landing-page workflows.
+- Improve product-page context extraction and reference handling.
+- Add clearer review steps for hooks, scenes, claims, and call-to-action fit.
+- Document unsupported claims around ROAS, guaranteed ad performance, or platform affiliation.
+- Refine examples for stores launching multiple creative angles quickly.
 
-## Feedback Wanted
+## Later
 
-Open an issue if a workflow is unclear, pricing copy is confusing, an example needs better context, or a page creates the wrong expectation about ProductX.
+- Evaluate team-oriented creative libraries and campaign organization.
+- Improve structured templates for common ecommerce categories.
+- Add clearer handoff patterns from generated creative to testing workflows.
+- Document quality expectations for product shots, references, and generated motion.
+
+## Product Principles
+
+- Do not claim guaranteed ad performance or ROAS uplift.
+- Do not imply affiliation with ad platforms or marketplaces.
+- Keep claims tied to workflow speed, iteration, and ecommerce video production.
+- This repository is for public product feedback, not private production source code.

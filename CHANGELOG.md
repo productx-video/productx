@@ -1,7 +1,11 @@
 # Changelog
 
-Public product milestones for ProductX will be summarized here when they are relevant to users.
+## 2026-05-30
 
-## Unreleased
+- Reworked the public repository documentation around ProductX's actual product scope.
+- Updated roadmap, support, security, and contribution guidance for productx.video.
+- Clarified that this repository is a public feedback and product-information home, not the private production source tree.
 
-- Created the public GitHub home for feedback, support, roadmap tracking, and product documentation.
+## 2026-05-29
+
+- Created the official public repository structure.

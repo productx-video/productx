@@ -1,43 +1,51 @@
+<p align="center">
+  <a href="https://productx.video">
+    <img src="assets/productx-logo.png" alt="ProductX logo" width="112" />
+  </a>
+</p>
+
 # ProductX
 
-Official public repository for [productx.video](https://productx.video), an AI creative workflow platform for ecommerce teams that need ad videos, product videos, and faster creative iteration.
+Official public repository for [productx.video](https://productx.video). ProductX helps ecommerce teams generate ad videos, product videos, and structured creative variants from product inputs, market references, and campaign briefs.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
-## What ProductX Provides
+## Product Focus
 
-- AI ad clone workflows for adapting winning ad structures into brand-specific creative
-- Link-to-video and product-input video workflows for ecommerce teams
-- Product video generation for PDPs, paid social, and creative testing
-- Storyboard and review steps before final video rendering
-- Credit-based plans for self-serve creative production
-- Public examples, pricing, and product documentation
+- Ecommerce teams shipping more product and ad creatives
+- Growth marketers testing hooks, angles, and video variants
+- Brands that need product-page context turned into creative briefs
+- Teams remaking ad structure without reusing protected footage or unsupported claims
 
-## Public Feedback
+## Main Workflows
 
-Use GitHub Issues for:
+- Generate ecommerce ad videos from product inputs and briefs.
+- Create product videos that explain an item instead of only producing generic motion.
+- Build variants from one creative direction for faster testing.
+- Use ad-clone workflows as structure-based remakes rather than reused footage.
+- Move from product pages, assets, and market references into reviewable video outputs.
 
-- Broken pages, links, or layout problems
-- Product workflow feedback
-- Feature requests for ad clone, ad video, or product video generation
-- Pricing, credit, or onboarding clarity issues
-- Documentation and example corrections
-- Accessibility and mobile usability reports
+## What To Open Here
 
-Please include the page URL, expected result, actual result, browser, device, and source context when relevant.
+- Product input, asset, or product-page parsing issues
+- Ad video generation problems around hooks, structure, pacing, or review
+- Product video clarity issues for ecommerce shoppers
+- Billing, limits, or workflow questions from the live product
 
-## Roadmap
+## Repository Boundary
 
-The public roadmap is tracked in [ROADMAP.md](ROADMAP.md). It focuses on product direction rather than internal implementation details.
+- Public issues and discussions are welcome when they improve the live product experience.
+- Do not post private account data, secrets, payment details, uploaded personal media, or sensitive logs.
+- Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
+- Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Useful Links
+## Official Links
 
-- Website: https://productx.video
-- Issues: https://github.com/productx-video/productx/issues
-- Discussions: https://github.com/productx-video/productx/discussions
+- Website: [productx.video](https://productx.video)
+- Roadmap: [ROADMAP.md](ROADMAP.md)
 - Support: [SUPPORT.md](SUPPORT.md)
 - Security: [SECURITY.md](SECURITY.md)
 
-## Repository Scope
+## Support
 
-This repository is intentionally content-only. Public artifacts may include product notes, feedback templates, support policies, issue triage labels, and brand assets. Production code, infrastructure, secrets, analytics config, payment config, and private operational tooling are not published here.
+For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email support@productx.video.
