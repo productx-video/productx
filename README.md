@@ -10,6 +10,14 @@ Official public repository for [productx.video](https://productx.video). Product
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+![ProductX homepage](assets/screenshots/homepage.png)
+
+| AI ad video workflow | AI product video workflow |
+| --- | --- |
+| ![ProductX AI ad video workflow](assets/screenshots/ad-video.png) | ![ProductX AI product video workflow](assets/screenshots/product-video.png) |
+
 ## Product Focus
 
 - Ecommerce teams shipping more product and ad creatives
