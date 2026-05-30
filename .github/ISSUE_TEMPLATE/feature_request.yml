@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest a ProductX workflow or product improvement.
+title: "[Feature]: "
+labels: ["type: feature", "status: needs triage"]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What should ProductX improve?
+      description: Describe the workflow, input assets, and desired output.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why would this help?
+      description: Explain the ecommerce, paid social, or agency use case.
+    validations:
+      required: true

@@ -1,0 +1,38 @@
+name: Bug report
+description: Report a broken page, workflow problem, wrong result, or browser issue.
+title: "[Bug]: "
+labels: ["type: bug", "status: needs triage"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      placeholder: https://productx.video/...
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Product area
+      options:
+        - Ad clone
+        - Ad video
+        - Product video
+        - Pricing or credits
+        - Account or billing
+        - Landing page
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include expected result and actual result.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Chrome on Android, Safari on iPhone, Edge on Windows

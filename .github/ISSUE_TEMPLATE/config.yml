@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ProductX website
+    url: https://productx.video
+    about: Visit the live ProductX website.
+  - name: Support email
+    url: mailto:support@productx.video
+    about: Use email for private support or security-sensitive reports.
