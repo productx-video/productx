@@ -6,7 +6,7 @@
 
 # ProductX
 
-Official public repository for [productx.video](https://productx.video). ProductX helps ecommerce teams generate ad videos, product videos, and structured creative variants from product inputs, market references, and campaign briefs.
+Official public repository for [ProductX AI product and ad video generator](https://productx.video). ProductX helps ecommerce teams generate ad videos, product videos, and structured creative variants from product inputs, market references, and campaign briefs.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
@@ -47,13 +47,21 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
 - Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Official Links
+## Product Feature Links
 
-- Website: [productx.video](https://productx.video)
-- Roadmap: [ROADMAP.md](ROADMAP.md)
-- Support: [SUPPORT.md](SUPPORT.md)
-- Security: [SECURITY.md](SECURITY.md)
+- [ProductX AI product and ad video generator](https://productx.video): Generate ecommerce product videos and ad videos from product inputs and campaign briefs.
+- [ProductX AI product video generator](https://productx.video/ai-product-video): Open the focused product-video workflow for ecommerce creative output.
 
-## Support
+## Recent Updates
 
-For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email support@productx.video.
+- 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
+- 2026-07: Separated repository, feedback, and support routes from product feature links to avoid duplicate product URLs.
+
+## Repository Links
+
+| Destination | Link |
+| --- | --- |
+| Primary GitHub repository | [ProductX primary GitHub repository](https://github.com/productx-video/productx) |
+| Roadmap | [ROADMAP.md](ROADMAP.md) |
+| Support | [SUPPORT.md](SUPPORT.md) |
+| Security | [SECURITY.md](SECURITY.md) |
