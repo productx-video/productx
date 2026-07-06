@@ -1,6 +1,6 @@
 # Support
 
-This repository supports public product feedback for [ProductX](https://productx.video). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
+This repository supports public product feedback for [ProductX AI product and ad video generator](https://productx.video). Use the issue tracker for reproducible public problems, documentation gaps, roadmap suggestions, and product feedback.
 
 ## Best Public Reports
 

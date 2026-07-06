@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve ProductX. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [productx.video](https://productx.video).
+Thanks for helping improve ProductX. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [ProductX AI product and ad video generator](https://productx.video).
 
 ## Good Contributions
 

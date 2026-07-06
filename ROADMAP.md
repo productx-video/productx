@@ -1,6 +1,6 @@
 # ProductX Public Roadmap
 
-This roadmap summarizes product directions we are evaluating or actively improving for [productx.video](https://productx.video). It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [ProductX AI product and ad video generator](https://productx.video). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
 ## Now
 
