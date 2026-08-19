@@ -52,6 +52,10 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - [ProductX AI product and ad video generator](https://productx.video): Generate ecommerce product videos and ad videos from product inputs and campaign briefs.
 - [ProductX AI product video generator](https://productx.video/ai-product-video): Open the focused product-video workflow for ecommerce creative output.
 
+## Creative Review Handoff
+
+Identify the product input, intended audience, chosen workflow, and the exact hook, pacing, or product-clarity issue. Replace customer assets and unpublished campaign briefs with a sanitized example before posting publicly.
+
 ## Recent Updates
 
 - 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
